@@ -1,5 +1,5 @@
 # OpenAI Chatbot with WebUI 
-<img src="ExampleScreenshots/pub1.jpg" height="300">
+<img src="ExampleScreenshots/pub1.jpg" height="250">
 
 **Table of Contents**
 - [Introduction](#introduction)
@@ -40,21 +40,21 @@ Project is completed.
 
 ### British Pub Goer
 
-<img src="ExampleScreenshots/pub1.jpg" height="300">
-<img src="ExampleScreenshots/pub2.jpg" height="300">
-<img src="ExampleScreenshots/pub3.jpg" height="300">
+<img src="ExampleScreenshots/pub1.jpg" height="250">
+<img src="ExampleScreenshots/pub2.jpg" height="250">
+<img src="ExampleScreenshots/pub3.jpg" height="250">
 
 ### Fabulous Gay Camp Guy
 
-<img src="ExampleScreenshots/camp1.jpg" height="300">
-<img src="ExampleScreenshots/camp2.jpg" height="300">
-<img src="ExampleScreenshots/camp3.jpg" height="300">
+<img src="ExampleScreenshots/camp1.jpg" height="250">
+<img src="ExampleScreenshots/camp2.jpg" height="250">
+<img src="ExampleScreenshots/camp3.jpg" height="250">
 
 ### Rational Robot
 
-<img src="ExampleScreenshots/robot1.jpg" height="300">
-<img src="ExampleScreenshots/robot2.jpg" height="300">
-<img src="ExampleScreenshots/robot3.jpg" height="300">
+<img src="ExampleScreenshots/robot1.jpg" height="250">
+<img src="ExampleScreenshots/robot2.jpg" height="250">
+<img src="ExampleScreenshots/robot3.jpg" height="250">
 
 # Installation <a name="installation"></a>
 * Install an IDE of choice, e.g. PyCharm

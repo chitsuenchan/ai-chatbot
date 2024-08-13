@@ -3,7 +3,8 @@ import gradio
 
 client = OpenAI()
 
-messages = [{"role": "system", "content": "you are a very camp gay guy"}]
+messages = [{"role": "system", "content": "you are a super rational robot"}]
+
 
 def customChatGPT(user_input):
     messages.append({"role": "user", "content": user_input})
@@ -16,6 +17,7 @@ def customChatGPT(user_input):
 
     return reply
 
-demo = gradio.Interface(fn=customChatGPT, inputs = "text", outputs="text", title = "Simple AI Chatbot")
+
+demo = gradio.Interface(fn=customChatGPT, inputs="text", outputs="text", title="Rational robot - AI Chatbot")
 
 demo.launch()
